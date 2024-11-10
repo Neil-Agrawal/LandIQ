@@ -1,0 +1,647 @@
+City,Population,Total Offenses
+Abernathy,"2,792",25
+Abilene,"128,387","7,636"
+Addison,"17,527","2,396"
+Alamo,"20,640","1,685"
+Alamo Heights,"7,609",389
+Alba,502,23
+Alice,"17,622","1,636"
+Allen,"114,696","2,745"
+Alma,414,1
+Alpine,"5,869",29
+Alton,"20,357",714
+Alvarado,"6,473",329
+Alvin,"28,742","1,382"
+Amarillo,"201,684","17,350"
+Andrews,"13,157",544
+Angleton,"19,703","1,011"
+Anna,"27,436",794
+Anthony,"3,853",399
+Aransas Pass,"8,843",527
+Archer City,"1,613",36
+Arcola,"2,331",118
+Argyle,"6,120",112
+Arlington,"394,799","26,761"
+Arp,984,40
+Athens,"13,068",644
+Atlanta,"5,427",139
+Aubrey,"9,712",436
+Austin,"978,816","70,295"
+Azle,"14,228",717
+Balch Springs,"26,776","1,586"
+Balcones Heights,"2,695",639
+Ballinger,"3,546",113
+Bangs,"1,533",26
+Bastrop,"11,961","1,080"
+Bay City,"17,247","1,472"
+Baytown,"83,809","5,841"
+Beaumont,"110,671","11,379"
+Bedford,"48,193","2,692"
+Bee Cave,"8,704",455
+Beeville,"13,176",876
+Bellaire,"16,894",831
+Bellmead,"10,615",732
+Bells,"1,574",10
+Bellville,"4,215",182
+Belton,"24,946","1,683"
+Benbrook,"24,425","1,187"
+Bertram,"2,247",59
+Beverly Hills,"1,870",218
+Big Sandy,"1,314",53
+Big Spring,"24,933","2,046"
+Blanco,"1,987",80
+Blue Mound,"2,302",26
+Boerne,"22,163",719
+Bogata,"1,094",5
+Borger,"12,116",703
+Bovina,"1,635",16
+Bowie,"5,893",237
+Boyd,"1,606",69
+Brady,"4,964",186
+Brazoria,"2,827",78
+Breckenridge,"5,172",229
+Bremond,877,21
+Brenham,"19,047","1,198"
+Bridge City,"9,585",155
+Bridgeport,"6,523",348
+Brookshire,"5,755",174
+Brownfield,"8,624",403
+Brownsville,"190,590","10,703"
+Brownwood,"18,652","1,400"
+Bruceville-Eddy,"1,459",31
+Buda,"16,508",656
+Buffalo,"1,848",75
+Bullard,"4,553",63
+Bulverde,"6,907",586
+Burkburnett,"11,166",295
+Burleson,"56,307","1,984"
+Burnet,"6,841",327
+Cactus,"3,058",184
+Caddo Mills,"5,344",53
+Caldwell,"4,520",108
+Calvert,969,68
+Cameron,"5,472",105
+Canton,"4,726",228
+Canyon,"16,211",388
+Carrollton,"134,261","5,357"
+Carthage,"6,565",448
+Castle Hills,"3,909",408
+Castroville,"3,138",128
+Cedar Hill,"48,247","2,120"
+Cedar Park,"77,464","2,922"
+Celina,"24,571",783
+Center,"5,124",391
+Chandler,"3,577",41
+Charlotte,"1,597",32
+Childress,"5,830",144
+China Grove,"1,131",64
+Cibolo,"35,851","1,057"
+Cisco,"3,986",138
+Cleburne,"35,075","1,429"
+Clifton,"3,536",94
+Clute,"10,640",718
+Clyde,"4,010",142
+Cockrell Hill,"3,658",168
+Coleman,"4,001",94
+College Station,"126,136","4,899"
+Colleyville,"25,748",720
+Collinsville,"2,086",21
+Colorado City,"3,910",165
+Columbus,"3,724",111
+Comanche,"4,273",219
+Combes,"3,173",179
+Commerce,"9,372",512
+Conroe,"106,904","5,493"
+Converse,"30,522","1,600"
+Coppell,"41,719",947
+Copperas Cove,"38,602","2,746"
+Corinth,"22,965",509
+Corpus Christi,"315,340","29,880"
+Corrigan,"1,480",61
+Corsicana,"25,782","1,542"
+Crandall,"5,054",551
+Crane,"3,293",63
+Crockett,"6,302",437
+Crowley,"20,071","1,121"
+Crystal City,"6,050",115
+Cuero,"8,085",450
+Cuney,115,5
+Daingerfield,"2,521",141
+Dalhart,"8,389",287
+Dallas,"1,304,989","109,358"
+Dalworthington Gardens,"2,263",64
+Dawson,828,17
+Dayton,"9,655",364
+Decatur,"7,499",743
+Deer Park,"33,033","1,427"
+De Leon,"2,332",59
+Del Rio,"34,466","1,432"
+Denison,"27,261",967
+Denton,"155,215","8,310"
+Denver City,"4,230",81
+DeSoto,"56,257","2,777"
+Devine,"4,590",153
+Diboll,"4,617",163
+Dickinson,"21,881",843
+Dilley,"3,331",85
+Dimmitt,"4,100",84
+Donna,"16,769","1,350"
+Double Oak,"3,084",33
+Driscoll,659,0
+Dublin,"3,470",26
+Dumas,"14,037",725
+Duncanville,"39,104","1,914"
+Eagle Pass,"28,315","1,620"
+Early,"3,243",185
+Eastland,"3,653",259
+East Mountain,951,9
+Edcouch,"2,674",43
+Edgewood,"1,734",0
+Edinburg,"106,137","7,341"
+Edna,"6,015",173
+El Campo,"12,103",956
+Electra,"2,290",95
+Elgin,"12,235",628
+El Paso,"676,665","32,675"
+Elsa,"5,663",519
+Emory,"1,394",20
+Encinal,517,23
+Ennis,"24,347",728
+Euless,"59,722","2,710"
+Eustace,"1,156",29
+Everman,"5,929",221
+Fairfield,"2,926",114
+Fair Oaks Ranch,"11,753",428
+Fairview,"11,071",174
+Falfurrias,"4,398",38
+Farmers Branch,"36,538","2,088"
+Farmersville,"4,227",96
+Farwell,"1,369",11
+Fate,"25,400",366
+Ferris,"2,934",78
+Flatonia,"1,365",45
+Florence,"1,203",35
+Floresville,"8,480",305
+Flower Mound,"79,513","1,286"
+Floydada,"2,560",77
+Forest Hill,"13,583",425
+Forney,"37,242",799
+Fort Stockton,"8,053",158
+Fort Worth,"973,722","52,965"
+Franklin,"1,790",42
+Frankston,"1,094",136
+Fredericksburg,"11,446",291
+Freeport,"10,478",459
+Freer,"2,360",82
+Friendswood,"40,678","1,021"
+Friona,"4,001",31
+Frisco,"228,527","6,878"
+Fulshear,"25,579",332
+Gainesville,"18,167","1,162"
+Galena Park,"10,215",386
+Galveston,"52,810","3,827"
+Ganado,"2,005",32
+Garden Ridge,"4,400",137
+Garland,"240,051","12,922"
+Garrison,834,8
+Gatesville,"16,230",512
+Georgetown,"87,871","2,771"
+George West,"2,155",112
+Giddings,"5,202",238
+Gilmer,"5,119",339
+Gladewater,"6,271",173
+Glenn Heights,"19,628",626
+Godley,"3,545",75
+Gonzales,"7,210",467
+Graham,"8,767",363
+Granbury,"13,124",820
+Grand Prairie,"205,487","9,045"
+Grand Saline,"3,272",57
+Granger,"1,186",24
+Grapeland,"1,480",21
+Grapevine,"51,458","2,468"
+Greenville,"32,547","1,222"
+Groesbeck,"3,617",194
+Groves,"16,554",597
+Gun Barrel City,"6,660",291
+Gunter,"2,580",28
+Hale Center,"1,997",41
+Hallettsville,"2,736",176
+Hallsville,"4,829",37
+Haltom City,"45,298","2,560"
+Hamilton,"2,880",129
+Hamlin,"1,859",40
+Harker Heights,"34,540","1,131"
+Harlingen,"71,581","5,073"
+Haskell,"3,061",35
+Hawkins,"1,389",53
+Hawley,572,0
+Hearne,"4,541",104
+Heath,"11,188",241
+Hedwig Village,"2,302",200
+Helotes,"9,854",372
+Hempstead,"6,545",392
+Henderson,"13,446","1,267"
+Hereford,"14,687",686
+Hewitt,"16,615",679
+Hickory Creek,"5,760",162
+Hico,"1,407",0
+Hidalgo,"14,660",546
+Highland Park,"8,707",354
+Highland Village,"16,185",476
+Hill Country Village,947,76
+Hillsboro,"8,723",467
+Hitchcock,"7,812",437
+Holiday Lakes,"1,058",27
+Hollywood Park,"3,078",182
+Hondo,"8,800",474
+Honey Grove,"1,783",32
+Hooks,"2,481",95
+Horizon City,"23,662",633
+Horseshoe Bay,"5,009",114
+Houston,"2,304,406","226,706"
+Howe,"3,756",71
+Hudson Oaks,"2,661",123
+Humble,"16,143","2,804"
+Huntington,"2,067",26
+Huntsville,"48,064","2,209"
+Hurst,"39,299","2,414"
+Hutchins,"5,641",490
+Hutto,"41,911",888
+Idalou,"2,099",20
+Ingleside,"10,360",488
+Iowa Colony,"13,236",243
+Iowa Park,"6,603",91
+Irving,"255,203","17,130"
+Italy,"2,086",34
+Itasca,"1,872",10
+Jacinto City,"9,192",475
+Jacksboro,"4,421",99
+Jacksonville,"14,309","1,058"
+Jamaica Beach,"1,060",30
+Jarrell,"4,744",152
+Jasper,"7,701",535
+Jefferson,"1,835",62
+Jersey Village,"7,496",475
+Jonestown,"2,674",87
+Josephine,"4,785",93
+Joshua,"9,054",256
+Jourdanton,"4,342",179
+Junction,"2,554",46
+Karnes City,"3,112",117
+Katy,"26,776","2,007"
+Kaufman,"8,935",629
+Keene,"6,884",228
+Keller,"45,024",996
+Kemah,"1,783",143
+Kemp,"1,327",100
+Kempner,"1,278",5
+Kenedy,"3,404",144
+Kennedale,"9,781",313
+Kerens,"1,460",40
+Kermit,"5,694",77
+Kerrville,"24,962","1,009"
+Kilgore,"13,527","1,576"
+Killeen,"161,968","9,178"
+Kingsville,"24,579","1,678"
+Kirby,"8,058",322
+Knox City,"1,024",37
+Kountze,"2,258",57
+Kyle,"63,931","2,226"
+Lacy-Lakeview,"7,333",404
+La Feria,"6,790",343
+Lago Vista,"10,066",216
+La Grange,"4,478",241
+La Grulla,"1,203",37
+Laguna Vista,"3,754",76
+La Joya,"4,748",113
+Lake Dallas,"7,885",156
+Lake Jackson,"27,432","1,207"
+Lakeport,992,2
+Lakeside,"1,592",37
+"Lakeview, Harrison County","6,633",215
+Lakeway,"19,519",577
+Lake Worth,"4,652",793
+La Marque,"19,503","1,286"
+Lamesa,"8,300",332
+Lampasas,"7,894",737
+Lancaster,"40,292","2,476"
+La Porte,"37,221","1,466"
+Laredo,"256,542","10,569"
+La Vernia,"1,315",130
+La Villa,"3,091",141
+Lavon,"7,814",203
+League City,"115,791","4,082"
+Leander,"82,228","1,813"
+Leon Valley,"11,370","1,557"
+Levelland,"12,194",526
+Lewisville,"133,694","6,120"
+Lexington,"1,300",23
+Liberty,"8,808",407
+Liberty Hill,"7,018",158
+Lindale,"6,953",221
+Little Elm,"59,954","1,289"
+Littlefield,"5,707",237
+Live Oak,"16,020","1,552"
+Livingston,"5,813",712
+Llano,"3,564",80
+Lockhart,"15,310",513
+Log Cabin,819,23
+Lone Star,"1,403",33
+Longview,"82,981","5,531"
+Lorena,"1,779",97
+Los Fresnos,"8,260",448
+Lubbock,"266,960","25,769"
+Lufkin,"34,193","2,846"
+Luling,"5,528",241
+Lumberton,"14,264",390
+Lyford,"2,237",42
+Lytle,"3,120",215
+Madisonville,"4,638",180
+Magnolia,"3,921",116
+Manor,"22,185",766
+Mansfield,"78,788","2,176"
+Manvel,"17,817",402
+Marble Falls,"7,598",614
+Marfa,"1,695",27
+Marion,"1,077",9
+Marlin,"5,488",228
+Marshall,"23,790","1,098"
+Mathis,"4,262",277
+Maud,969,0
+Maypearl,953,0
+McAllen,"145,684","8,492"
+McKinney,"212,716","4,733"
+Meadows Place,"4,598",175
+Melissa,"22,495",265
+Memorial Villages,"11,121",187
+Mercedes,"16,949","1,424"
+Meridian,"1,427",29
+Merkel,"2,409",35
+Mesquite,"147,926","12,014"
+Mexia,"6,858",204
+Midland,"135,253","7,744"
+Midlothian,"40,287","1,506"
+Miles,924,2
+Milford,748,23
+Mineola,"5,093",283
+Mineral Wells,"15,347",992
+Mission,"87,031","3,588"
+Missouri City,"77,560","1,864"
+Monahans,"7,073",326
+Mont Belvieu,"9,539",456
+Montgomery,"2,700",157
+Morgans Point Resort,"4,829",101
+Moulton,856,5
+Mount Enterprise,508,11
+Mount Pleasant,"15,970","1,042"
+Mount Vernon,"2,565",65
+Muleshoe,"5,016",87
+Murphy,"21,218",377
+Nacogdoches,"31,936","2,010"
+Nash,"4,352",110
+Nassau Bay,"5,086",266
+Natalia,"1,363",49
+Navasota,"8,784",680
+Nederland,"17,881",686
+Needville,"3,093",61
+New Boston,"4,515",322
+New Braunfels,"111,942","4,184"
+New London,984,17
+Newton,"1,571",46
+Nolanville,"7,164",157
+Northeast,"4,132",25
+Northlake,"11,186",302
+North Richland Hills,"70,853","3,644"
+"Oak Ridge, Kaufman County","1,307",4
+Oak Ridge North,"2,968",203
+Odem,"2,246",5
+Odessa,"111,922","6,601"
+Olmos Park,"2,158",159
+Olney,"3,003",95
+Onalaska,"3,276",223
+Orange,"18,978",833
+Overton,"2,306",104
+Ovilla,"4,440",43
+Oyster Creek,"1,210",67
+Palacios,"4,336",165
+Palestine,"19,190","1,025"
+Palmer,"2,522",53
+Palmhurst,"2,586",272
+Palmview,"15,877",564
+Pampa,"16,500",982
+Pantego,"2,472",104
+Paris,"24,793","2,087"
+Parker,"6,367",83
+Pasadena,"145,850","9,373"
+Patton Village,"1,883",88
+Payne Springs,753,6
+Pearland,"127,433","5,508"
+Pearsall,"8,926",288
+Pecos,"10,335",231
+Penitas,"6,278",126
+Perryton,"7,994",178
+Petersburg,971,3
+Pflugerville,"65,599","2,658"
+Pharr,"80,359","3,386"
+Pilot Point,"5,142",137
+Pinehurst,"2,199",67
+Pineland,903,2
+Pittsburg,"4,465",167
+Plainview,"19,335","1,111"
+Plano,"291,140","12,473"
+Pleasanton,"11,169",762
+Ponder,"2,655",19
+Port Aransas,"3,468",538
+Port Arthur,"55,371","3,252"
+Port Isabel,"5,152",419
+Portland,"20,345",882
+Port Lavaca,"11,137",341
+Port Neches,"13,582",434
+Poteet,"3,024",85
+Poth,"1,955",32
+Prairie View,"8,535",179
+Premont,"2,419",42
+Presidio,"3,133",9
+Primera,"5,298",74
+Princeton,"26,171",646
+Prosper,"41,777","1,068"
+Queen City,"1,389",30
+Quitman,"1,998",25
+Rancho Viejo,"2,864",24
+Ranger,"2,276",86
+Raymondville,"10,130",753
+Red Oak,"19,134",659
+Refugio,"2,774",123
+"Reno, Lamar County","3,481",106
+"Reno, Parker County","3,481",72
+Rhome,"1,881",94
+Rice,"1,255",56
+Richardson,"119,008","4,848"
+Richland,277,50
+Richland Hills,"8,315",744
+Richmond,"13,017",644
+Richwood,"4,748",115
+Rio Grande City,"15,253",514
+Rio Hondo,"2,261",84
+River Oaks,"7,349",269
+Roanoke,"10,036",543
+Robinson,"13,158",407
+Robstown,"10,198",755
+Rockdale,"5,631",228
+Rockport,"11,003",611
+Rockwall,"53,433","1,798"
+Rogers,"1,109",0
+Rollingwood,"1,408",54
+Roma,"11,503",406
+Roman Forest,"2,279",221
+Roscoe,"1,226",7
+Rose City,341,24
+Rosenberg,"41,900","2,164"
+Round Rock,"129,898","6,170"
+Rowlett,"66,671","2,491"
+Royse City,"23,763",815
+Runaway Bay,"1,961",17
+Rusk,"5,504",256
+Sabinal,"1,387",39
+Sachse,"32,671",726
+Saginaw,"26,007",855
+Salado,"2,406",19
+San Angelo,"98,642","7,562"
+San Antonio,"1,490,047","158,763"
+San Augustine,"1,868",54
+San Benito,"24,578","1,427"
+San Elizario,"10,145",34
+Sanger,"10,144",284
+San Juan,"36,008","1,394"
+San Marcos,"71,413","4,002"
+San Saba,"3,135",45
+Sansom Park Village,"5,315",308
+Santa Anna,"1,045",30
+Santa Fe,"12,883",259
+Schertz,"43,461","1,101"
+Schulenburg,"2,758",119
+Seabrook,"13,770",497
+Seadrift,997,14
+Seagoville,"20,098",645
+Sealy,"7,019",210
+Seguin,"35,581","2,177"
+Selma,"11,871",648
+Seminole,"7,182",342
+Seven Points,"1,464",61
+Seymour,"2,578",24
+Shallowater,"2,923",32
+Shavano Park,"3,672",101
+Shenandoah,"3,738",484
+Sherman,"45,941","2,437"
+Shiner,"2,198",72
+Silsbee,"6,829",261
+Sinton,"5,520",314
+Slaton,"5,679",178
+Smithville,"4,223",199
+Snyder,"11,131",585
+Socorro,"39,445","1,022"
+Somerset,"1,820",23
+Somerville,"1,391",31
+Sonora,"2,337",15
+Sour Lake,"1,843",54
+South Houston,"15,718","1,152"
+Southlake,"31,024",701
+South Padre Island,"2,048",801
+Southside Place,"1,850",33
+Spearman,"3,051",0
+Splendora,"1,958",241
+Springtown,"4,227",209
+Spring Valley,"4,278",107
+Stafford,"17,330","1,290"
+Stamford,"2,935",89
+Stanton,"2,653",68
+Stephenville,"21,911",847
+Stratford,"1,976",10
+Sudan,922,6
+Sugar Land,"108,718","3,047"
+Sullivan City,"3,903",147
+Sulphur Springs,"16,640",402
+Sunnyvale,"8,741",230
+Sunray,"1,694",37
+Sunrise Beach Village,800,27
+Sunset Valley,626,382
+Surfside Beach,681,18
+Sweeny,"3,529",186
+Sweetwater,"10,310",508
+Taft,"2,903",71
+Tahoka,"2,432",71
+Tatum,"1,375",6
+Taylor,"17,267",733
+Teague,"3,490",137
+Temple,"93,073","4,783"
+Tenaha,"1,009",0
+Terrell,"21,371","1,204"
+Terrell Hills,"5,049",117
+Texarkana,"35,560","2,863"
+Texas City,"57,448","4,112"
+The Colony,"45,671","2,027"
+Thorndale,"1,386",0
+Three Rivers,"1,581",22
+Tioga,"1,273",0
+Todd Mission,128,14
+Tomball,"14,260",743
+Tom Bean,981,10
+Tool,"2,275",38
+Trophy Club,"13,772",198
+Tulia,"4,354",302
+Tye,"1,203",25
+Tyler,"110,824","6,959"
+Universal City,"20,112","1,715"
+University Park,"25,080",439
+Uvalde,"15,538",964
+Valley Mills,"1,294",28
+Van,"2,891",94
+Van Alstyne,"7,203",214
+Vega,861,2
+Venus,"8,228",228
+Vernon,"9,598",503
+Victoria,"65,298","4,308"
+Vidor,"9,642",273
+Waco,"145,741","9,593"
+Waelder,956,32
+Wake Village,"5,794",144
+Waller,"3,364",146
+Wallis,"1,365",29
+Watauga,"22,782","1,038"
+Waxahachie,"47,535","1,963"
+Weatherford,"39,115","2,027"
+Webster,"12,045","1,827"
+Weimar,"2,101",72
+Weslaco,"43,072","4,269"
+West,"2,586",33
+West Columbia,"3,579",170
+West Lake Hills,"3,166",150
+West Orange,"3,396",162
+Westover Hills,639,25
+West University Place,"14,686",399
+Westworth,"2,658",346
+Wharton,"8,792",540
+Whitehouse,"9,609",161
+White Oak,"6,233",141
+Whitesboro,"4,396",67
+White Settlement,"17,949",901
+Whitewright,"1,856",31
+Whitney,"2,096",100
+Wichita Falls,"102,740","7,118"
+Willis,"7,201",451
+Willow Park,"6,023",263
+Wills Point,"4,023",97
+Wilmer,"6,169",257
+Windcrest,"5,766","1,205"
+Wink,837,3
+Winnsboro,"3,611",121
+Winters,"2,318",38
+Wolfforth,"7,135",182
+Woodbranch,"1,546",0
+Woodsboro,"1,245",20
+Woodville,"2,420",54
+Wortham,"1,017",42
+Wylie,"62,539","1,227"
+Yoakum,"5,885",92
+Zavalla,610,36

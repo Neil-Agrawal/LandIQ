@@ -1,0 +1,212 @@
+{
+    "$ref": "https://api.lightboxre.com/v1/parcels/us/fips/48113/apn/26501720010010000",
+    "$metadata": {
+        "geogcs": {
+            "epsg": "4269"
+        },
+        "currency": {
+            "code": "usd"
+        },
+        "units": {
+            "length": "m",
+            "area": "sqm"
+        },
+        "recordSet": {
+            "totalRecords": 1.0,
+            "offset": null,
+            "limit": null,
+            "bbox": {
+                "xMax": -96.660122,
+                "xMin": -96.662156,
+                "yMax": 32.96026,
+                "yMin": 32.957459
+            }
+        }
+    },
+    "parcels": [
+        {
+            "$ref": "https://api.lightboxre.com/v1/parcels/us/0202N4CTOTYOL8LRJZDP5K",
+            "id": "0202N4CTOTYOL8LRJZDP5K",
+            "$metadata": {
+                "geocode": null
+            },
+            "fips": "48113",
+            "parcelApn": "26501720010010000",
+            "assessment": {
+                "alternateApn": "26-50172-001-001-00-00",
+                "apn": "26501720010010000",
+                "assessedValue": {
+                    "total": 733250.0,
+                    "land": 733250.0,
+                    "improvements": null,
+                    "year": "2024"
+                },
+                "marketValue": {
+                    "total": 733250.0,
+                    "land": 733250.0,
+                    "improvements": null,
+                    "year": "2024"
+                },
+                "improvementPercent": null,
+                "lot": {
+                    "lotNumber": "1",
+                    "blockNumber": "1",
+                    "depth": 0.0,
+                    "width": 0.0,
+                    "size": 22702.8846
+                },
+                "poolIndicator": null,
+                "zoning": {
+                    "assessment": null
+                },
+                "book": null,
+                "page": null,
+                "avm": null
+            },
+            "cbsa": {
+                "code": "19100"
+            },
+            "census": {
+                "blockGroup": "3",
+                "tract": "019027"
+            },
+            "county": "DALLAS",
+            "derived": {
+                "calculatedLotArea": 22722.862453531598
+            },
+            "landUse": {
+                "code": "C12",
+                "description": "COMMERCIAL - VACANT PLOTTED LOTS/TRACTS",
+                "normalized": {
+                    "code": "8002",
+                    "description": "COMMERCIAL-VACANT LAND",
+                    "categoryDescription": "VACANT LAND"
+                }
+            },
+            "lastLoan": {
+                "recordingDate": null,
+                "dueDate": "2017-07-28T00:00:00.000Z",
+                "lender": null,
+                "value": null,
+                "transactionId": "",
+                "interestRates": null
+            },
+            "legalDescription": [
+                "SANCTUARY BLK 1 LT 1 ACS 5.611 INT201700226933 DD08112017 CO-DC 0002047100902 2CG00020471"
+            ],
+            "location": {
+                "streetAddress": "4221 N GARLAND AVE",
+                "countryCode": "US",
+                "locality": "GARLAND",
+                "regionCode": "TX",
+                "postalCode": "75040",
+                "postalCodeExt": null,
+                "geometry": {
+                    "wkt": "POLYGON ((-96.6605932287276 32.957458982128, -96.6601326341104 32.9578471467527, -96.661321332896 32.9588540794924, -96.6601219992335 32.9598765234837, -96.6605692222372 32.9602600132785, -96.6611090582818 32.9598126104621, -96.6621560009432 32.9589152547705, -96.6621556863588 32.9588253737262, -96.6619831658001 32.9586792364395, -96.661778343191 32.9584628762437, -96.6605932287276 32.957458982128))"
+                },
+                "representativePoint": {
+                    "longitude": -96.6606,
+                    "latitude": 32.959983,
+                    "geometry": {
+                        "wkt": "POINT (-96.6606 32.959983)"
+                    }
+                }
+            },
+            "neighborhood": null,
+            "occupant": {
+                "owner": false,
+                "company": true
+            },
+            "owner": {
+                "names": [
+                    {
+                        "fullName": "WOODLANDS OF SPRING CREEK LP",
+                        "firstName": "WOODLANDS OF SPRING CREEK LP",
+                        "middleName": null,
+                        "lastName": null
+                    }
+                ],
+                "streetAddress": "16250 KNOLL TRAIL DR STE 102",
+                "countryCode": "US",
+                "locality": "DALLAS",
+                "regionCode": "TX",
+                "postalCode": "75248",
+                "postalCodeExt": null,
+                "ownerNameStd": null,
+                "ownershipStatus": {
+                    "code": null,
+                    "description": null
+                }
+            },
+            "opportunityZone": false,
+            "primaryStructure": {
+                "yearBuilt": null,
+                "yearRenovated": null,
+                "units": null,
+                "livingArea": null
+            },
+            "related": {
+                "commonOwnership": {
+                    "aggregateLotSize": 22702.8846,
+                    "id": "538956687_2552",
+                    "count": 1.0,
+                    "subdivision": null,
+                    "lotWidthMedian": null,
+                    "lotWidthSummary": null
+                },
+                "associatePropertyCount": 1.0
+            },
+            "subdivision": "SANCTUARY",
+            "tax": {
+                "year": "2024",
+                "yearDelinquent": "2023",
+                "amount": 16778.0,
+                "taxRateAreaCode": null,
+                "id": null,
+                "taxAccountNumber": null,
+                "exemption": null
+            },
+            "topography": null,
+            "transaction": {
+                "lastMarketSale": {
+                    "pricePerArea": null,
+                    "value": null,
+                    "seller": null,
+                    "buyer": "WOODLANDS OF SPRING CREEK LP",
+                    "filingDate": "2017-07-28T00:00:00.000Z",
+                    "transferDate": "2017-07-28T00:00:00.000Z",
+                    "documentNumber": null,
+                    "documentTypeCode": null,
+                    "documentTypeDescription": null,
+                    "lender": null,
+                    "loan": {
+                        "code": null,
+                        "description": null,
+                        "first": null,
+                        "second": null
+                    },
+                    "sale": {
+                        "code": null,
+                        "description": null
+                    },
+                    "titleCompany": null,
+                    "tdDocumentNumber": null,
+                    "deedTransactionType": null,
+                    "lenderType": null
+                },
+                "priorMarketSale": {
+                    "transferDate": null,
+                    "lender": ""
+                },
+                "multipleApnFlag": null
+            },
+            "usplss": {
+                "township": null,
+                "range": null,
+                "section": null,
+                "quarter": null
+            },
+            "structures": null
+        }
+    ]
+}
